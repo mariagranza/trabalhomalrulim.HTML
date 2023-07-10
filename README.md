@@ -7,12 +7,17 @@
     <title>Document</title>
 </head>
 <style>
-    .base{background-color: rgb(20, 216, 216); height:69px ; width:1300px ;}
-    .barra1{background-color: rgb(229, 234, 235); width:1300px ; height:560px ;}
+    .base{background-color: rgb(239, 245, 245); height: 630px ; width:1300px ;}
+    .barra1{background-color: rgb(12, 221, 186); height:69px ; width:1300px ;}
+    .barra2{background-color: blueviolet; width:1300px; height: 120px;}
 </style>
 <body>
-   <div class="base"></div>
-   <div class="barra1"></div>
-   <div class="barra2"></div>
+   <div class="base">
+    <div class="barra1"></div>
+    <div class="barra2"><img src="https://img.freepik.com/fotos-premium/toalhas-dobradas-e-sabao-em-po_254005-4.jpg?w=360" width="1300px"; height="120px"></div>
+    <div class="imagem1"><img src="https://img.freepik.com/fotos-premium/toalhas-dobradas-e-sabao-em-po_254005-4.jpg?w=360"></div>
+    <div class="imagem2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfAo2n6wAAoLE-erMYCrTjSy1v_iypw-yxC_pFkJssnsbtE7EANQGCsDCfQrmqbozAdQ&usqp=CAU"></div>
+   </div>
+   
 </body>
 </html>
